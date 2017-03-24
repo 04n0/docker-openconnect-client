@@ -1,0 +1,4 @@
+conf/*
+run/*
+test/*
+docker-compose.yml
